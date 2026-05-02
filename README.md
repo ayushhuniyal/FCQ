@@ -110,7 +110,7 @@ datasets.
 
 **5. Log and reverse square root transformations for Boulder clustering**
 Enrollment was strongly right-skewed (skewness = 4.92) and Interact was
-strongly left-skewed (skewness = $-$2.61). Untransformed variables would
+strongly left-skewed (skewness = -2.61). Untransformed variables would
 have allowed enrollment scale to dominate Euclidean distance calculations
 in K-Means. Transformations normalized both distributions before scaling.
 
